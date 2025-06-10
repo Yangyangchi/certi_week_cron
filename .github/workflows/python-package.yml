@@ -2,7 +2,7 @@ name: 디스코드 알림봇
 
 on:
   schedule: # 한국시간 목요일 오후 5시 실행
-    - cron:  "47 7 * * 4"  # UTC 기준 목요일 오전 8시
+    - cron:  "48 7 * * 4"  # UTC 기준 목요일 오전 8시
 
 jobs:
   message:
